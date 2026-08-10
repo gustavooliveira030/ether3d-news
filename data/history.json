@@ -1,5 +1,29 @@
 {
   "version": 1,
-  "sent": []
+  "sent": [
+    {
+      "id": "ac18fb094c846ab5a31f",
+      "url": "https://3dprintingindustry.com/news/inside-hyundai-motor-groups-additive-manufacturing-solution-center-253683",
+      "source": "3D Printing Industry",
+      "sent_at": "2026-08-10T21:24:36.460438+00:00"
+    },
+    {
+      "id": "9402b165bd951c0db29c",
+      "url": "https://3dprintingindustry.com/news/elite-sports-show-the-value-of-am-253664",
+      "source": "3D Printing Industry",
+      "sent_at": "2026-08-10T21:24:36.945940+00:00"
+    },
+    {
+      "id": "07694b4b77fdae7e2e58",
+      "url": "https://3dprintingindustry.com/news/hydrogens-metal-compatibility-challenge-draws-new-industry-research-253669",
+      "source": "3D Printing Industry",
+      "sent_at": "2026-08-10T21:24:37.379118+00:00"
+    },
+    {
+      "id": "593078fd62966c00001c",
+      "url": "https://3dprintingindustry.com/news/cavan-sullivan-becomes-first-footballer-to-wear-a-fully-3d-printed-boot-in-a-professional-match-253603",
+      "source": "3D Printing Industry",
+      "sent_at": "2026-08-10T21:24:37.813470+00:00"
+    }
+  ]
 }
-
