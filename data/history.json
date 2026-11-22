@@ -2484,6 +2484,30 @@
       "url": "https://www.tomshardware.com/3d-printing/china-engineers-behind-j-35-fighter-jet-pioneer-3d-printed-load-bearing-structures-in-military-aircraft-behemoth-16-4-foot-part-uses-segmented-printing-and-fusion-techniques",
       "source": "Tom's Hardware 3D Printing",
       "sent_at": "2026-11-21T17:51:15.991360+00:00"
+    },
+    {
+      "id": "c0b95ff0412f73f3c2c7",
+      "url": "https://3dprintingindustry.com/news/fraunhofer-additiv-unveils-new-way-to-build-function-into-3d-printed-parts-257155",
+      "source": "3D Printing Industry",
+      "sent_at": "2026-11-22T18:11:07.471383+00:00"
+    },
+    {
+      "id": "5018a2d90dd49790d9e2",
+      "url": "https://3dprintingindustry.com/news/swissto12-advances-3d-printed-antennas-for-5g-satellites-256892",
+      "source": "3D Printing Industry",
+      "sent_at": "2026-11-22T18:11:07.892825+00:00"
+    },
+    {
+      "id": "0f530d34f7933f43bc7b",
+      "url": "https://3dprintingindustry.com/news/fraunhofer-iapt-uses-ultrasound-to-free-metal-am-parts-256849",
+      "source": "3D Printing Industry",
+      "sent_at": "2026-11-22T18:11:08.321376+00:00"
+    },
+    {
+      "id": "27be590ff8e7d2ab0e43",
+      "url": "https://3dprintingindustry.com/news/promateria-starts-industrial-production-of-additively-manufactured-metal-components-256668",
+      "source": "3D Printing Industry",
+      "sent_at": "2026-11-22T18:11:08.733308+00:00"
     }
   ]
 }
